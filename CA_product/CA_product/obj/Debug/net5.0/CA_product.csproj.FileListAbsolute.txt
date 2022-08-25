@@ -1,0 +1,32 @@
+C:\Users\Pc\source\repos\CA_product\CA_product\bin\Debug\net5.0\CA_product.exe
+C:\Users\Pc\source\repos\CA_product\CA_product\bin\Debug\net5.0\CA_product.deps.json
+C:\Users\Pc\source\repos\CA_product\CA_product\bin\Debug\net5.0\CA_product.runtimeconfig.json
+C:\Users\Pc\source\repos\CA_product\CA_product\bin\Debug\net5.0\CA_product.runtimeconfig.dev.json
+C:\Users\Pc\source\repos\CA_product\CA_product\bin\Debug\net5.0\CA_product.dll
+C:\Users\Pc\source\repos\CA_product\CA_product\bin\Debug\net5.0\CA_product.pdb
+C:\Users\Pc\source\repos\CA_product\CA_product\obj\Debug\net5.0\CA_product.csproj.AssemblyReference.cache
+C:\Users\Pc\source\repos\CA_product\CA_product\obj\Debug\net5.0\CA_product.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\source\repos\CA_product\CA_product\obj\Debug\net5.0\CA_product.AssemblyInfoInputs.cache
+C:\Users\Pc\source\repos\CA_product\CA_product\obj\Debug\net5.0\CA_product.AssemblyInfo.cs
+C:\Users\Pc\source\repos\CA_product\CA_product\obj\Debug\net5.0\CA_product.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\CA_product\CA_product\obj\Debug\net5.0\CA_product.dll
+C:\Users\Pc\source\repos\CA_product\CA_product\obj\Debug\net5.0\refint\CA_product.dll
+C:\Users\Pc\source\repos\CA_product\CA_product\obj\Debug\net5.0\CA_product.pdb
+C:\Users\Pc\source\repos\CA_product\CA_product\obj\Debug\net5.0\CA_product.genruntimeconfig.cache
+C:\Users\Pc\source\repos\CA_product\CA_product\obj\Debug\net5.0\ref\CA_product.dll
+C:\Users\Pc\Desktop\BİLGE ADAM\3.OOP\3-OOP\24.08\CA_product\CA_product\bin\Debug\net5.0\CA_product.exe
+C:\Users\Pc\Desktop\BİLGE ADAM\3.OOP\3-OOP\24.08\CA_product\CA_product\bin\Debug\net5.0\CA_product.deps.json
+C:\Users\Pc\Desktop\BİLGE ADAM\3.OOP\3-OOP\24.08\CA_product\CA_product\bin\Debug\net5.0\CA_product.runtimeconfig.json
+C:\Users\Pc\Desktop\BİLGE ADAM\3.OOP\3-OOP\24.08\CA_product\CA_product\bin\Debug\net5.0\CA_product.runtimeconfig.dev.json
+C:\Users\Pc\Desktop\BİLGE ADAM\3.OOP\3-OOP\24.08\CA_product\CA_product\bin\Debug\net5.0\CA_product.dll
+C:\Users\Pc\Desktop\BİLGE ADAM\3.OOP\3-OOP\24.08\CA_product\CA_product\bin\Debug\net5.0\CA_product.pdb
+C:\Users\Pc\Desktop\BİLGE ADAM\3.OOP\3-OOP\24.08\CA_product\CA_product\obj\Debug\net5.0\CA_product.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\BİLGE ADAM\3.OOP\3-OOP\24.08\CA_product\CA_product\obj\Debug\net5.0\CA_product.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Desktop\BİLGE ADAM\3.OOP\3-OOP\24.08\CA_product\CA_product\obj\Debug\net5.0\CA_product.AssemblyInfoInputs.cache
+C:\Users\Pc\Desktop\BİLGE ADAM\3.OOP\3-OOP\24.08\CA_product\CA_product\obj\Debug\net5.0\CA_product.AssemblyInfo.cs
+C:\Users\Pc\Desktop\BİLGE ADAM\3.OOP\3-OOP\24.08\CA_product\CA_product\obj\Debug\net5.0\CA_product.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\BİLGE ADAM\3.OOP\3-OOP\24.08\CA_product\CA_product\obj\Debug\net5.0\CA_product.dll
+C:\Users\Pc\Desktop\BİLGE ADAM\3.OOP\3-OOP\24.08\CA_product\CA_product\obj\Debug\net5.0\refint\CA_product.dll
+C:\Users\Pc\Desktop\BİLGE ADAM\3.OOP\3-OOP\24.08\CA_product\CA_product\obj\Debug\net5.0\CA_product.pdb
+C:\Users\Pc\Desktop\BİLGE ADAM\3.OOP\3-OOP\24.08\CA_product\CA_product\obj\Debug\net5.0\CA_product.genruntimeconfig.cache
+C:\Users\Pc\Desktop\BİLGE ADAM\3.OOP\3-OOP\24.08\CA_product\CA_product\obj\Debug\net5.0\ref\CA_product.dll

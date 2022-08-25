@@ -40,6 +40,11 @@ namespace CA_BakiyeislemleriAPP
 
                         }
                     }
+                    else
+                    {
+                        Console.WriteLine("Kullanıcı adı veya şifre hatalı");
+                        return;
+                    }
                     
                 }
                 if (isAuthencited)

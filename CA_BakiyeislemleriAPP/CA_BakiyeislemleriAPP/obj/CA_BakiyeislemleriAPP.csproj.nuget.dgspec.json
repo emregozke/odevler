@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pc\\Desktop\\BİLGE ADAM\\c#\\18.08\\CA_BakiyeislemleriAPP\\CA_BakiyeislemleriAPP\\CA_BakiyeislemleriAPP.csproj": {}
+    "C:\\Users\\Pc\\Desktop\\odevler\\CA_BakiyeislemleriAPP\\CA_BakiyeislemleriAPP\\CA_BakiyeislemleriAPP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pc\\Desktop\\BİLGE ADAM\\c#\\18.08\\CA_BakiyeislemleriAPP\\CA_BakiyeislemleriAPP\\CA_BakiyeislemleriAPP.csproj": {
+    "C:\\Users\\Pc\\Desktop\\odevler\\CA_BakiyeislemleriAPP\\CA_BakiyeislemleriAPP\\CA_BakiyeislemleriAPP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pc\\Desktop\\BİLGE ADAM\\c#\\18.08\\CA_BakiyeislemleriAPP\\CA_BakiyeislemleriAPP\\CA_BakiyeislemleriAPP.csproj",
+        "projectUniqueName": "C:\\Users\\Pc\\Desktop\\odevler\\CA_BakiyeislemleriAPP\\CA_BakiyeislemleriAPP\\CA_BakiyeislemleriAPP.csproj",
         "projectName": "CA_BakiyeislemleriAPP",
-        "projectPath": "C:\\Users\\Pc\\Desktop\\BİLGE ADAM\\c#\\18.08\\CA_BakiyeislemleriAPP\\CA_BakiyeislemleriAPP\\CA_BakiyeislemleriAPP.csproj",
+        "projectPath": "C:\\Users\\Pc\\Desktop\\odevler\\CA_BakiyeislemleriAPP\\CA_BakiyeislemleriAPP\\CA_BakiyeislemleriAPP.csproj",
         "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pc\\Desktop\\BİLGE ADAM\\c#\\18.08\\CA_BakiyeislemleriAPP\\CA_BakiyeislemleriAPP\\obj\\",
+        "outputPath": "C:\\Users\\Pc\\Desktop\\odevler\\CA_BakiyeislemleriAPP\\CA_BakiyeislemleriAPP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
