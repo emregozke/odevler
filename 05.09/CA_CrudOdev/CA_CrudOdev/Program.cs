@@ -53,7 +53,7 @@ namespace CA_CrudOdev
                                     Product product = new Product();
                                     foreach (Product pro in product.GetList())
                                     {
-                                        Console.WriteLine($"{pro.ProductName}  {pro.UnitPrice}");
+                                        Console.WriteLine($"{pro.ProductName}  {pro.UnitPrice} {pro.Category.CategoryName}");
                                     }
                                     break;
                                 case 5:
