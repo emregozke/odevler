@@ -12,10 +12,7 @@ namespace CA_imdbDataOdev
         ImdbDataContext db = new ImdbDataContext();
 
 
-        public List<Movie> MovieList()
-        {
-            return db.Movies.ToList();
-        }
+        
         public void Listele()
         {
             foreach (Movie item in db.Movies.ToList())
