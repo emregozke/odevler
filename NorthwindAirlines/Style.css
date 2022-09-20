@@ -1,0 +1,57 @@
+﻿.navbar-nav {
+    margin-left: auto;
+}
+
+.navbar-brand {
+    margin-left: 20px
+}
+
+.desc {
+    background-color: #231f1f;
+    width: 100%;
+    height: 400px;
+}
+
+.renk {
+    color: aliceblue;
+    margin-top: 10px;
+    padding-top: 50px;
+}
+
+.text {
+    margin-left: 400px;
+    margin-right: 400px;
+}
+/*.card {
+    width: 224px;
+    height: 373px;
+    border: 1px solid;
+    border-radius: 5px;
+    text-align: center;
+    float: left;
+    margin-right: 20px;
+}*/
+.kartlar {
+    width: 90%;
+    margin-left: 250px;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+    .kartlar > .card {
+        width: 224px;
+        height: 373px;
+        border: 1px solid;
+        border-radius: 5px;
+        text-align: center;
+        float: left;
+        margin-right: 20px;
+    }
+.yolcu {
+    border:1px solid;
+    width: 67%;
+    margin-left: 250px;
+    margin-right: auto;
+    margin-top: 20px;
+    float: left;
+}
