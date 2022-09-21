@@ -1,0 +1,70 @@
+﻿<html>
+<head>
+    <title>İletişim</title>
+    <link href="../css/bootstrap.css" rel="stylesheet" />
+    <script src="js/Script1.js"></script>
+</head>
+<body>
+    <!--Navbar-->
+    <nav class="navbar navbar-expand-lg bg-light">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">Northwind</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link me-3" href="#">Anasayfa</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link me-3" href="/pages/product.html">Ürün</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link me-3" href="/pages/contact.html">İletişim</a>
+                    </li>
+                </ul>
+                <form class="d-flex" role="search">
+
+                    <a href="/pages/register.html" class="btn btn-sm btn-outline-success mt-2">Kayıt</a>
+                </form>
+            </div>
+        </div>
+    </nav>
+    <div class="container">
+        <div class="row mt-2">
+            <div class="mt-2 mb-2">
+                <label><b>İsim</b> </label>
+                <input type="text" id="isim" />
+                <label><b>Soyisim</b> </label>
+                <input type="text" id="soyisim" />
+                <label><b>Email </b></label>
+                <input type="text" id="email" />
+                <label><b>Adres </b></label>
+                <input type="text" id="adres" />
+                <button id="verigir" class="btn btn-sm btn-primary">Kişi Ekle</button>
+
+            </div>
+            
+        </div>
+    </div>
+    <table id="liste" class="table table-hover mt-3 ms-5 ">
+        <thead>
+            <tr>
+                <th>İsim</th>
+                
+                <th>Soy İsim</th>
+               
+                <th>E-mail</th>
+                
+                <th>Adres</th>
+                
+                
+
+            </tr>
+           
+        </thead>
+        
+    </table>
+</body>
+</html>
