@@ -1,0 +1,30 @@
+﻿
+@model List<MVC_odev.Models.ProductModel>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title> 
+</head>
+<body>
+    <table>
+        <tr>
+            <th>ProductId</th>
+            <th>PorductName</th>
+            <th>UnitPrice</th>
+            <th>UnitsInStok</th>
+        </tr>
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td>@item.ProductId</td>
+                <td>@item.ProductName</td>
+                <td>@item.UnitPrice</td>
+                <td>@item.UnitsInStok</td>
+            </tr>
+        }
+    </table>
+</body>
+</html>
